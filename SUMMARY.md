@@ -8,6 +8,11 @@
 ## Plugin usage
   
   * [🖥️ Commands](plugin-usage/commands/README.md)
+    * [/sethome](plugin-usage/commands/sethome.md)
+    * [/home](plugin-usage/commands/home.md)
+    * [/listhomes](plugin-usage/commands/listhomes.md)
+    * [/delhome](plugin-usage/commands/delhome.md)
+    * [/givehomes](plugin-usage/commands/givehomes.md)
   * [🆗 Permissions](plugin-usage/permissions.md)
   
 ## Configuration
