@@ -4,12 +4,12 @@
 
 ### Getting a new branch for your language
 
-Contact LoneDev and ask him to create a **new branch** for your language.\
+Contact Hecker_01 and ask him to create a **new branch** for your language.\
 Feel free to ping **hecker\_01** on the Discord or to open a support ticket in the community channel.
 
 ### Setting up your repository
 
-Then, after the branch creation, open the [**Github** repository](https://github.com/hecker-01/xLifeSteal-Wiki) of this wiki, press on **`Fork`**.
+Then, after the branch creation, open the [**Github** repository](https://github.com/hecker-01/SecretLife-Wiki) of this wiki, press on **`Fork`**.
 
 ![](../.gitbook/assets/how-to-fork.png)
 
@@ -57,7 +57,7 @@ Edit the file and then press <mark style="color:green;">**Commit changes**</mark
 ### Last step
 
 Contact **hecker\_01** in order to get your changes reviewed and added to the wiki.\
-Feel free to ping **hecker\_01** on the [Discord](https://discord.gg/8ukXVGemBB) or to open a support ticket in the community channel.
+Feel free to ping **hecker\_01** on the [Discord](https://discord.gg/DgcmAcm6MQ) or to open a support ticket in the community channel.
 
 {% hint style="info" %}
 Would be good if you update your translation each time the main repository (the one in English) gets edited, to reflect changes.\
