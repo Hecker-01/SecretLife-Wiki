@@ -10,7 +10,7 @@ description: This site helps you configure and customize everything about xLifeS
 [tos.md](other/tos.md)
 {% endcontent-ref %}
 
-{% content-ref url="plugin-usage/commands/lifesteal.md" %}
+{% content-ref url="plugin-usage/commands/README.md" %}
 [lifesteal.md](plugin-usage/commands/README.md)
 {% endcontent-ref %}
 
