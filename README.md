@@ -21,4 +21,4 @@ description: This site helps you configure and customize everything about xLifeS
 ### 🌐Other Links
 
 * [Website](https://www.heckerdev.net/)
-* [Discord](https://discord.gg/8ukXVGemBB)
+* [Discord](https://discord.gg/DgcmAcm6MQ)
