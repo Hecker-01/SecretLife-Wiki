@@ -11,7 +11,7 @@ description: This site helps you configure and customize everything about xLifeS
 {% endcontent-ref %}
 
 {% content-ref url="plugin-usage/commands/README.md" %}
-[lifesteal.md](plugin-usage/commands/README.md)
+[README.md](plugin-usage/commands/README.md)
 {% endcontent-ref %}
 
 {% content-ref url="other/faq.md" %}
